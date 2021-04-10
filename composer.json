@@ -1,10 +1,10 @@
 {
-    "name": "vikas/facebook-video-downloader",
+    "name": "facebook-video-dowloader",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vikas5914",
-            "email": "vikas@kapadiya.net"
+            "name": "jet2018",
+            "email": "ezrajet8@gmail.com"
         }
     ],
     "require": {
